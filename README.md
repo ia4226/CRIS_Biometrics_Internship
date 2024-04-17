@@ -1,6 +1,6 @@
 # CRIS_Biometrics_Internship
 CRIS internship reg: biometrics app dev 
-Developing a biometric app system for the Center of Railways Information Systems was a journey that left me both professionally fulfilled and personally enriched. This project was a unique opportunity to make a meaningful impact and learn valuable lessons along the way.
+developing a biometric app system for the Center of Railways Information Systems was a journey that left me both professionally fulfilled and personally enriched. This project was a unique opportunity to make a meaningful impact and learn valuable lessons along the way.
 
 Writing the code for our biometric app system was a thrilling challenge. We delved into the intricacies of biometric authentication, security protocols, and database management. The responsibility of ensuring that our system could accurately identify and verify individuals through their unique biometric traits was daunting, but it also motivated us to put our best foot forward. Witnessing the app successfully recognize users through their fingerprints and facial features was a moment of sheer accomplishment.
 
